@@ -10,7 +10,7 @@
 python3 app/studio.py
 ```
 
-На Windows используйте `py app/studio.py`. На macOS также можно открыть `app/launch.command`.
+На Windows используйте `py app/studio.py`. На macOS также можно запустить `zsh app/launch.command`.
 
 При первом запуске откроется пример программы. Нажмите «Запустить», чтобы увидеть, в каком порядке выполняются команды. Свои программы можно сохранять и открывать в формате `.robonik`.
 
@@ -28,4 +28,4 @@ python3 app/studio.py
 | Конкуренты и оценка рынка TAM, SAM, SOM | [Анализ рынка](docs/market-analysis.pdf) |
 | Таблица сравнения по пяти критериям | [Таблица критериев](docs/comparison-criteria.pdf) |
 | Схема проекта | [Схема](media/schematic.jpeg) |
-| Видеоматериал | [Видео](media/demo.mp4) |
+| Видеоматериал | [Скачать оригинал видео](https://github.com/Buwke/robonik/releases/download/demo/demo.mp4) |
